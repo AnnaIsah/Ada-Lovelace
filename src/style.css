@@ -76,3 +76,9 @@ a{
   line-height: 2.5;
   margin: 0 89px;
 }
+button{
+  background-color: #41f341;
+  border: solid 1px transparent;
+  padding: 2px 20px;
+  border-radius:3px;
+}
